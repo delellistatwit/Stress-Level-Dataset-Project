@@ -49,4 +49,5 @@ Additionally, we wanted to see how the voting was for each category, so we gener
 <img width="640" height="424" alt="image" src="https://github.com/user-attachments/assets/0f498f69-605a-4fa4-99e5-7047ab128bf1" />
 These scatterplots show a closer look at how the students rated each stressor on the 1-5 scale. Because each point represents an individual student's vote, the density and spread of the dots reveal how different the opinions between the students were. Stressors with thicker, denser clusters indicate areas where many students consistently reported stress, while thinner clusters suggested more varied experiences among the surveyed students.
 
+
 Overall, our analysis shows that student stress is shaped by a combination of many different factors. Psychological stressors such as self-esteem, depression, and anxiety were the most influential, while issues like sleep quality and career concerns created the most intense spikes in stress. Together, these findings highlight the importance of supporting students’ mental health, providing academic guidance when necessary, and improving access to basic needs and stable living conditions on campus.
